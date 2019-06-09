@@ -1,0 +1,13 @@
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (1, '啊啊啊啊啊', '1', '2019-4-11', '德布鲁因', '1', 1, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (2, '是多少', '0', '2019-5-1', '哈尔滨', '0', 2, 1);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (4, '开心朋朋', '0', '1980/6/15', '合信路', '0', 1, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (5, '开心朋朋', '0', '1980/6/15', '合信路', '0', 1, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (9, '开心啊啊啊朋朋', ' + 0', '1980-6-15', '合信路', '0', 1, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (10, '301抢劫案', '2', '2019-06-04T16:00:00.000Z', '东北林业大学', '0', 1, 1);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (11, '哈尔滨5.1黑恶势力暴动', '1', '2019-06-24T16:00:00.000Z', '城市的', '0', 1, 1);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (12, '哈尔滨3.21少数民族暴动', '0', '2019-06-17T16:00:00.000Z', '哈尔滨', '0', 1, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (13, '乐松广场2.23袭击事件', '1', '2019-06-16T16:00:00.000Z', '乐松广场', '0', 1, 1);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (19, '东北林业大学4.22袭击事件', '1', '2019-06-17T16:00:00.000Z', '东北林业大学', '1', 2, 1);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (20, '哈尔滨和平机场4.22恐怖袭击事件', '1', '2019-06-24T16:00:00.000Z', '哈尔滨', '1', 1, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (21, 'undefined', '1', 'undefined', 'undefined', '1', 0, 2);
+INSERT INTO `mxw_case` (`id`, `des`, `isPre`, `time`, `address`, `state`, `pteamId`, `tteamId`) VALUES (17, '和兴路2.22恐怖暴动', '0', '2019-06-11T16:00:00.000Z', '和兴路', '0', 1, 1);
